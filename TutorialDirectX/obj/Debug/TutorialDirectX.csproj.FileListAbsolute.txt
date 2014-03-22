@@ -1,0 +1,9 @@
+c:\users\haskis\documents\visual studio 2013\Projects\TutorialDirectX\TutorialDirectX\bin\Debug\TutorialDirectX.exe.config
+c:\users\haskis\documents\visual studio 2013\Projects\TutorialDirectX\TutorialDirectX\bin\Debug\TutorialDirectX.exe
+c:\users\haskis\documents\visual studio 2013\Projects\TutorialDirectX\TutorialDirectX\bin\Debug\TutorialDirectX.pdb
+c:\users\haskis\documents\visual studio 2013\Projects\TutorialDirectX\TutorialDirectX\obj\Debug\TutorialDirectX.Properties.Resources.resources
+c:\users\haskis\documents\visual studio 2013\Projects\TutorialDirectX\TutorialDirectX\obj\Debug\TutorialDirectX.csproj.GenerateResource.Cache
+c:\users\haskis\documents\visual studio 2013\Projects\TutorialDirectX\TutorialDirectX\obj\Debug\TutorialDirectX.exe
+c:\users\haskis\documents\visual studio 2013\Projects\TutorialDirectX\TutorialDirectX\obj\Debug\TutorialDirectX.pdb
+c:\users\haskis\documents\visual studio 2013\Projects\TutorialDirectX\TutorialDirectX\obj\Debug\TutorialDirectX.csprojResolveAssemblyReference.cache
+C:\Users\Haskis\Documents\Visual Studio 2013\Projects\TutorialDirectX\TutorialDirectX\obj\Debug\TutorialDirectX.Form1.resources
